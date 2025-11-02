@@ -1,4 +1,4 @@
-# Gamemode base para SA-MP da SPC
+# Gamemode base para SA-MP da AlderGrounds
 
 ## Esta é uma GameMode básica, ou seja, somente com os sistemas básicos e "obrigatórios" em que todos os servidores tem por padrão.
 ## Nessa GM, atualmente, poderemos ver alguns sistemas feitos do 0 por nossa equipe. Estes sistemas estão listados abaixo:
